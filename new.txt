@@ -1,0 +1,4 @@
+Name: Andrey,
+Age: 26,
+Pets: 0,
+Desired salary: 1100
