@@ -26,12 +26,14 @@ git push
 
 Создать файл preferences.txt;
 touch preferences.txt
+git add preferences.txt
 
 В файл preferences.txt добавить информацию о своих предпочтениях (любимый фильм, любимый сериал, любимая еда, любимое время года, страна, которую хотели бы посетить) в формате TXT;
 vim preferences.txt
 
 Создать файл skills.txt, добавить информацию о скиллах, которые будут изучены на курсе в формате TXT;
 touch skills.txt
+git add skills.txt
 vim skills.txt
 
 Сделать коммит в одну строку;
