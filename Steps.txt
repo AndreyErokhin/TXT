@@ -36,7 +36,6 @@ touch skills.txt
 vim skills.txt
 
 Сделать коммит в одну строку;
-git add .
 git commit -am "info about preferences and skills"
 
 Отправить сразу 2 файла на внешний репозиторий;
